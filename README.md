@@ -1,2 +1,3 @@
 # hello-world
-Tseting repository to get accustomed
+Testing repository to get accustomed;
+So, this is now edited. So, a small change has been introoduced into the repo.
